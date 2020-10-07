@@ -1,0 +1,32 @@
+name: binder_env
+channels:
+  - districtdatalabs
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - bokeh=1.3
+  - kaggle=1.5
+  - matplotlib=3.1
+  - mkl=2019.4=243
+  - numpy=1.17
+  - pandas=0.24
+  - pip=19.3
+  - plotly=4.1
+  - pydot=1.4
+  - python=3.7
+  - requests=2.22
+  - scikit-image=0.15
+  - scikit-learn=0.21
+  - scikit-optimize=0.5
+  - scikit-plot=0.3
+  - scipy=1.3
+  - seaborn=0.9
+  - tensorboard=2.0
+  - tensorflow=2.0
+  - tensorflow-base=2.0
+  - tensorflow-estimator=2.0
+  - tensorflow-hub
+  - tensorflow-probability
+
