@@ -3,7 +3,9 @@
 
 ## Training
 
-<img align="left" src="media/dl-cnn-keras-vis.png" width=300> The KAUST Visualization Core Laboratory (KVL) is pleased to announce a half-day introductory tutorial on Deep Learning Image Classification with Keras.  
+<img align="left" src="media/dl-cnn-keras-vis.png" width=300> 
+
+The KAUST Visualization Core Laboratory (KVL) is pleased to announce a half-day introductory tutorial on Deep Learning Image Classification with Keras.  
 
 Visualization, Computational, and Data Analytics experts from the laboratory will introduce participants to the elegant Keras deep learning programming interface to build and train TensorFlow models for image classification tasks on the CIFAR-10 / MNIST datasets.  We will demonstrate a variety of image classification CNNs (convolutional neural networks) making use of transfer learning, skip connections, data augmentation, sequential & functional APIs, and a variety of visualization techniques to create models and better understand them.  The tutorial is interactive throughout.  It provides participants experience with a variety of Python based tools inside a Jupyter notebook environment.  A final exercise provides participants the opportunity to apply what they have learned to another dataset, create their own model, and submit prediction results to Kaggle (an online community for data-scientists and machine learning practitioners) for evaluation.
 
@@ -16,7 +18,7 @@ Join us to learn how to use deep learning and Keras to classify images.
 
 ### Venue, Date and Time 
 
-  * ** Tuesday, April 6th, 2021 ** - ** 13:00 - 17:00 AST **
+  * **Tuesday, April 6th, 2021** - **13:00 - 17:00 AST**
   * Virtual (Zoom link and invite provided via registration) 
 
 
@@ -27,11 +29,12 @@ Join us to learn how to use deep learning and Keras to classify images.
 
 ### Schedule
 
-^ Time               ^ Topic                         ^ Speaker         ^
-^ 1:00pm-4:00pm      | Tutorial                      | Glendon Holst   |
-^ 4:00pm-5:00pm      | Exercise & Kaggle Submission  | KVL Team        |
+| Time               | Topic                         | Speaker         |
+| :----------------- | :---------------------------- | :-------------- |
+| 1:00pm-4:00pm      | Tutorial                      | Glendon Holst   |
+| 4:00pm-5:00pm      | Exercise & Kaggle Submission  | KVL Team        |
 
-**Note:** The tutorial session will be recorded for [[https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw|KAUST Visualization Core Lab ]] and/or [[https://vimeo.com/visualization|KAUST Visualization Core Lab]] and/or [[https://mediasite.kaust.edu.sa|KAUST Mediasite]].
+**Note:** The tutorial session will be recorded for [KAUST Visualization Core Lab](https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw)]] and/or [KAUST Visualization Core Lab](https://vimeo.com/visualization) and/or [KAUST Mediasite](https://mediasite.kaust.edu.sa).
 
 ### Tutorial Materials
 
@@ -39,14 +42,14 @@ Join us to learn how to use deep learning and Keras to classify images.
   * [Tutorial Materials](https://github.com/kaust-vislab/keras-tutorials-lite)
 
 * Datasets:
-  * [https://www.cs.toronto.edu/~kriz/cifar.html](CIFAR-10)
-  * [http://yann.lecun.com/exdb/mnist/](MNIST)
+  * [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+  * [MNIST](http://yann.lecun.com/exdb/mnist/)
 
 * Video: 
-  * [https://youtu.be/NKzYiRsGEXc](Introduction to Deep Learning Image Classification with Keras - Tutorial)
+  * [Introduction to Deep Learning Image Classification with Keras - Tutorial](https://youtu.be/NKzYiRsGEXc)
   * [Introduction to Deep Learning Image Classification with Keras - Exercise](https://youtu.be/83T8VQ537sY)
 
-* Slides: [http://download.vis.kaust.edu.sa/pub/workshops/2020/IntroToDeepLearningWithKeras/slides/keras_transfer_learning_tutorial.pdf](Tutorial PDF)
+* Slides: [Tutorial PDF](http://download.vis.kaust.edu.sa/pub/workshops/2020/IntroToDeepLearningWithKeras/slides/keras_transfer_learning_tutorial.pdf)
 
 
 ### Technical Preparation
@@ -59,13 +62,14 @@ Participants will need to bring their own laptop and charger.
 
 You may choose between the following runtime environments:
 
-^ Google Colab    ^ KAUST Remote Workstation   ^ Local Laptop ^
+| Google Colab    | KAUST Remote Workstation   | Local Laptop |
+| --------------- | -------------------------- | ------------ |
 | Recommended - requires Google Account | Optional - local to KAUST | Requires NVIDIA GPU + Installation & Setup   |
 
 
 #### Google Colab
 
-To run the notebooks in [https://colab.research.google.com](Google Colab) you will need a [https://accounts.google.com/](Google Account).  Sign-in to your Google account, if necessary, and then start the Tutorial / Exercise Notebook by clicking the buttons below:
+To run the notebooks in [Google Colab](https://colab.research.google.com) you will need a [Google Account](https://accounts.google.com/).  Sign-in to your Google account, if necessary, and then start the Tutorial / Exercise Notebook by clicking the buttons below:
 
 * Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaust-vislab/keras-tutorials-lite/blob/master/notebooks/keras-transfer-learning-tutorial.ipynb)
 * Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaust-vislab/keras-tutorials-lite/blob/master/notebooks/keras-mnist-kaggle-exercise.ipynb)
@@ -78,9 +82,9 @@ Then follow the *Setup Colab* instructions in the notebook.
 Requires:
 
   * NVIDIA GPU – Performance required to follow tutorial in allotted time.
-  * Conda [https://docs.conda.io/en/latest/miniconda.html](Miniconda Installers).
-  * git + LFS [https://git-lfs.github.com/](Git Large File Storage)
-  * Access to [https://gitlab.kaust.edu.sa](KAUST GitLab)
+  * Conda [Miniconda Installers](https://docs.conda.io/en/latest/miniconda.html).
+  * git + LFS [Git Large File Storage](https://git-lfs.github.com/)
+  * Access to [KAUST GitLab](https://gitlab.kaust.edu.sa)
 
 To work locally on your own laptop or workstation, use the [Conda](https://docs.conda.io/en/latest/miniconda.html) package managment system to create a work environment with the required software. After installing miniconda (above), follow these steps to setup the work environment and run the tutorial:
 
