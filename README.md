@@ -34,7 +34,7 @@ Join us to learn how to use deep learning and Keras to classify images.
 | 1:00pm-4:00pm      | Tutorial                      | Glendon Holst   |
 | 4:00pm-5:00pm      | Exercise & Kaggle Submission  | KVL Team        |
 
-**Note:** The tutorial session will be recorded for [KAUST Visualization Core Lab](https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw)]] and/or [KAUST Visualization Core Lab](https://vimeo.com/visualization) and/or [KAUST Mediasite](https://mediasite.kaust.edu.sa).
+**Note:** The tutorial session will be recorded for [KAUST Visualization Core Lab](https://www.youtube.com/channel/UCR1RFwgvADo5CutK0LnZRrw) and/or [KAUST Visualization Core Lab](https://vimeo.com/visualization) and/or [KAUST Mediasite](https://mediasite.kaust.edu.sa).
 
 ### Tutorial Materials
 
