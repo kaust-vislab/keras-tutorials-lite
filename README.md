@@ -24,8 +24,7 @@ Join us to learn how to use deep learning and Keras to classify images.
 
 ### Registration
 
-  * [KAUST Affiliated](https://kaustforms.formstack.com/forms/intro_keras_spring_2021_kaust)
-  * [Non-KAUST Afflilated](https://kaustforms.formstack.com/forms/intro_keras_spring_2021_non_kaust)
+  * Closed
 
 
 ### Schedule
